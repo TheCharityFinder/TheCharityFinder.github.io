@@ -63,11 +63,11 @@ ul li {
     background-color: #FFF;
 }
 .navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
-    background-color: #67C7C7;
+    background-color: #825EF6;
 }
 .btn-primary {
     color: #fff;
-    background-color: #67C7C7; /* #15BD40 */
+    background-color: #825EF6; /* #15BD40 */
     padding: 10px;
     margin-bottom: 10px;
     border-radius: 0;
@@ -113,7 +113,7 @@ ul li {
 	transition: all 0.3s;
 }
 .custom-btn:hover {
-	background-color: #67C7C7;
+	background-color: #825EF6;
 	color: #fff;
 	border-color: transparent;
 }
@@ -131,8 +131,7 @@ ul li {
 	margin-bottom: 30px;
 }
 .bg-color {
-	background: rgba(0, 0, 0, 0.5);
-	color: #D4D4D4;
+/*	background: rgba(200, 202, 208, 1.0);*/
 }
 .section-padding {
 	padding-top: 100px;
@@ -176,7 +175,7 @@ textarea:focus {
 .service .media-right i.fa {
     text-align: center;
     font-size: 45px;
-    color: #67C7C7;
+    color: #825EF6;
     padding: 25px 0;
     border-radius: 50px;
     margin: 0 10px;
@@ -188,7 +187,7 @@ textarea:focus {
 .service .media-left i.fa {
     text-align: center;
     font-size: 45px;
-    color: #67C7C7;
+    color: #825EF6;
     padding: 25px 0;
     border-radius: 50px;
     margin: 0 10px;
@@ -214,7 +213,7 @@ h4.media-heading {
    3. Section Header                 
 ========================================= */
 header {
-	background: url(../images/bg.png) 50% 0 no-repeat fixed;
+	background: url(../images/bg.jpg) 15% 0 no-repeat fixed;
 	background-size: cover;
 }
 .top .photo-slide {
@@ -227,7 +226,7 @@ header {
 	height: auto;
 }
 .top .content {
-	color: #fff;
+/*	color: #fff;*/
 }
 .top .content h1 {
 	font-size: 46px;
@@ -265,7 +264,7 @@ header {
 /*	color: #222;*/
 /*}*/
 .top .content h1 strong {
-    color: #F6F6F6 !important;
+    color: #FFFFFF !important;
     font-weight: 600;
 }
 .carousel-indicators .active {
@@ -310,7 +309,7 @@ header {
 	line-height: 35px;
 }
 .navigation .navbar-default {
-	background-color: #67C7C7;
+	background-color: #825EF6;
 	border: none;
 	border-radius: 0;
 	clear: both;
@@ -747,8 +746,8 @@ header {
 	transition: all 0.3s;
 }
 .input-group-addon:hover {
-	background-color: #67C7C7;
-	border-color: #67C7C7;
+	background-color: #825EF6;
+	border-color: #825EF6;
 	color: #fff;
 }
 
@@ -784,7 +783,7 @@ header {
 }
 .download {
 	/* background-image: url(../images/pattern5.png); */
-	background-color: #67C7C7;
+	background-color: #825EF6;
 	color: #fff;
 }
 .download .underline:before,
@@ -863,8 +862,8 @@ header {
 	font-size: 20px;
 	font-weight: 400;
 	margin-bottom: 50px;
-	background-color: #67C7C7;
-	border: 2px solid #67C7C7; /* #67C7C7 */
+	background-color: #825EF6;
+	border: 2px solid #825EF6; /* #825EF6 */
 }
 .footer .contact .contact-submit i {
 	margin-right: 10px;

@@ -75,7 +75,7 @@ ul li {
 }
 
 .dark-bg {
-	background-color: #E7E7E7;
+/*	background-color: #E7E7E7;*/
 }
 .underline {
 	position: relative;
@@ -131,8 +131,8 @@ ul li {
 	margin-bottom: 30px;
 }
 .bg-color {
-	background: rgba(0, 0, 0, 0.5);
-	color: #D4D4D4;
+/*	background: rgba(0, 0, 0, 0.5);*/
+/*	color: #D4D4D4;*/
 }
 .section-padding {
 	padding-top: 100px;
@@ -218,8 +218,8 @@ h4.media-heading {
    3. Section Header                 
 ========================================= */
 header {
-	background: url(images/bg.jpg) 50% 0 no-repeat fixed;
-	background-size: cover;
+/*	background: url(images/bg.png) 50% 0 no-repeat fixed;*/
+/*	background-size: cover;*/
 }
 .top .photo-slide {
 	max-width: 252px;
@@ -231,7 +231,7 @@ header {
 	height: auto;
 }
 .top .content {
-	color: #fff;
+/*	color: #fff;*/
 }
 .top .content h1 {
 	font-size: 46px;
@@ -262,17 +262,17 @@ header {
 	margin-right: 20px;
 }
 .top .content .button a:hover {
-	background-color: #fff;
-	color: #222;
+/*	background-color: #fff;*/
+/*	color: #222;*/
 }
 .top .content h1 strong {
-    color: #09F !important;
+/*    color: #09F !important;*/
 }
 .carousel-indicators .active {
     width: 18px;
     height: 9px;
     margin: 0;
-    background-color: #fff;
+/*    background-color: #fff;*/
 }
 .carousel-indicators li {
     display: inline-block;
