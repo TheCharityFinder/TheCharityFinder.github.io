@@ -213,8 +213,9 @@ h4.media-heading {
    3. Section Header                 
 ========================================= */
 header {
-	background: url(../images/bg.jpg) 15% 0 no-repeat fixed;
-	background-size: cover;
+/*	background: url(../images/bg.jpg) 15% 0 no-repeat fixed;*/
+/*	background-size: cover;*/
+    background-color: #EEF1F4;
 }
 .top .photo-slide {
 	max-width: 252px;
@@ -238,7 +239,7 @@ header {
 	font-weight: 300;
 	margin-bottom: 29px;
 	line-height: 36px;
-	color: #FFFFFF;
+	color: #000000;
 	font-weight: 400;
 	margin-top: 0;
 }
@@ -264,7 +265,7 @@ header {
 /*	color: #222;*/
 /*}*/
 .top .content h1 strong {
-    color: #FFFFFF !important;
+    color: #000000 !important;
     font-weight: 600;
 }
 .carousel-indicators .active {
