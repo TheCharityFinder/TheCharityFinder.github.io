@@ -226,7 +226,7 @@ header {
 	width: 252px;
 	height: auto;
 }
-.top .content {
+.top {
 /*	color: #fff;*/
 }
 .top .content h1 {
@@ -868,6 +868,11 @@ header {
 }
 .footer .contact .contact-submit i {
 	margin-right: 10px;
+}
+
+.footer p {
+    text-align: left;
+    display: inline-block;
 }
 
 /* =========================================
